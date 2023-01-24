@@ -3,7 +3,7 @@
 ![](https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/3D-engine-model.gif)
 
 ### 1. Pseudo-infinite road 
-<img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/route.png" width="100" height="100">
+<img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/route.png" width="228" height="228">
 
 ### 2. Engine parts
 ![](https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/tranmission_parts.png)

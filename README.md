@@ -9,5 +9,5 @@
 <img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/tranmission_parts.png" style="height:50%;width:50%;">
 
 ### 3. Engine animation
-<img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/angles.png" style="height:50%;width:50%;">
-<img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/angle_formula.png" style="height:50%;width:50%;">
+<img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/angles.png" style="height:30%;width:30%;">
+<img src="https://github.com/Nikita-Dudorov/3D-car-model/blob/main/illustrations/angle_formula.png" style="height:30%;width:30%;">
